@@ -1,7 +1,5 @@
 # OIBSIP_Java_Task2
 
----
-
 # Number Guessing Game
 
 ```markdown
@@ -10,15 +8,12 @@
 ## 💡 Objective
 To build a console-based Java game where the user guesses a randomly generated number within a specified range.
 
----
 
 ## 🛠️ Tools & Technologies Used
 - Java (JDK 22)
 - Scanner class
 - Math.random()
 - Loops, conditionals, and basic Java syntax
-
----
 
 ## 🎮 Game Flow
 1. User sets an upper limit for guessing range.
@@ -29,7 +24,6 @@ To build a console-based Java game where the user guesses a randomly generated n
 4. Shows number of attempts.
 5. Asks if the user wants to play again.
 
----
 
 ## ▶️ How to Run
 ```bash
