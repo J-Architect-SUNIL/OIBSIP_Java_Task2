@@ -2,9 +2,6 @@
 
 # Number Guessing Game
 
-```markdown
-# Number Guessing Game
-
 ## 💡 Objective
 To build a console-based Java game where the user guesses a randomly generated number within a specified range.
 
